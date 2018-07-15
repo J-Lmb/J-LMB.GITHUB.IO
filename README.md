@@ -1,4 +1,4 @@
-## Welcome to my GitHub Pages
+## Welcome to my GitHub Home Page
 
 You can visit my [GitHub repository](https://github.com/J-Lmb) to see some of my projects. 
 
